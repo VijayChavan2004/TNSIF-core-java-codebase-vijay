@@ -10,7 +10,7 @@ public class Customer {
 	//default constructor 
 	public Customer()
 	{
-		System.out.println("hello this is Defaul Constructor--------------! ");
+		System.out.println("hello this is Default Constructor--------------! ");
 	}
 
 	
