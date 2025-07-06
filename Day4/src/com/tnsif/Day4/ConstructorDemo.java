@@ -10,7 +10,7 @@ public class ConstructorDemo {
 		
 		String name, city;
 		int id;
-		System.out.println("Enter Customer Id");
+		System.out.println("Enter Customer Id:");
 		id=sc.nextInt();
 		
 		sc.nextLine();
