@@ -12,7 +12,7 @@ public class HierachicalDriver {
 		System.out.println("--------------------------");
 		//Student s=new Student();
 		Person p;
-		p=new Person("Shubham", "mumbai");
+		p=new Person("Vijay", "mumbai");
 		System.out.println("Person Details "+ p);
 		
 		p=new Student("Sunil", "Nashik", "SY", 67.89f);

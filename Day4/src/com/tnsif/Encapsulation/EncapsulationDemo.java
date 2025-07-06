@@ -7,7 +7,7 @@ public class EncapsulationDemo {
 
 		OopsConceptDemo obj=new OopsConceptDemo();
 		
-		obj.setName("Shubham");
+		obj.setName("Vijay");
 		obj.setAge(23);
 		obj.setSerailNum(1001);
 		
